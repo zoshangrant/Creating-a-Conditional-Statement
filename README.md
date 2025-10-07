@@ -1,4 +1,4 @@
-# Creating-a-Conditional-Statement
+# Creating a Conditional-Statement
 <h1>Creating a Conditional Statement in Python</h1>
 
 <h2>Scenario </h2>
